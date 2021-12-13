@@ -1,0 +1,20 @@
+Aufgabe BilderApp               13. Dezember 2021
+
+Die BilderApp soll eine Anwendung werden, in der Künstler ihre Bilder mit ihrem Namen,
+dem Bildnamen und einem Verkaufspreis hochladen können.
+
+1. Erstelle ein neues Projekt, in dem der user jeweils ein Bild auf den localhost hochladen kann.
+    Tipp: Surfbegriffe: bild hochladen php.net
+    das Bild soll in einem Ordner img gespeichert werden
+
+2. Programmiere eine Methode, die die Daten dazu in einer Datenbanktabelle einträgt:
+    Name des Künstlers:in, Name des Bildes, Pfad zu diesem Bild und den Verkaufspreis.
+    Ordne diese Methode einer Klasse zu.
+    Teste die Methode
+
+3. Entwickle eine Methode, die alle hochgeladenen Daten in einem Array ausgibt.
+
+4. für fortgeschrittene Anwendungsentwickler: Ändere die Anwendung so, dass die Bilder jeweils in einem BLOB-Feld
+    gespeichert werden. Lass dieses Bild dann in einem Browser anzeigen.
+
+Viel Erfolg, Rolf!
